@@ -1,4 +1,6 @@
 # Machine Learning Project, Group33
 
-Variational Autoencoder on Fashion‑MNIST
-This repository contains Project 5 of the Machine Learning course, focused on implementing and improving a Variational Autoencoder (VAE) on the Fashion‑MNIST dataset. The project includes a baseline VAE, quality improvements, latent space analysis (β‑VAE), and a Conditional VAE for label‑controlled image generation, along with visual and quantitative evaluations.
+#Aspect-Based Sentiment Analysis
+
+Aspect-Based Sentiment Analysis using a Transformer-based model (BERT/RoBERTa) on the SemEval-2014 dataset.
+The model predicts sentiment polarity (positive, negative, neutral) for specific aspects within each sentence.
